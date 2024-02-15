@@ -7,7 +7,7 @@
 - MDownloader.bat скачивает все необходимые для Minecraft файлы.  
 Сначало это Natives и Json  
 С Json берутся ссылки на скачивание Libraries, Assets и client-1.12.xml  
-Завершает загрузку Java и MegaStarter.exe  
+Завершает загрузку Java и MegaStarter.bat  
 - MegaStarter.bat запускает Minecraft.  
 Он находит:  
 Папку Minecraft, файл Json, файл Jar, Java, папку Natives, папку Libraries, папку Assets.  
