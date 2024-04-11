@@ -1,6 +1,6 @@
 # Полезные Ссылки!
 - [elLauncher.bat - установщик (поместить в папку)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.bat)  
-- [elLauncher.zip - Архив с уже скаченным лаунчером](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.zip)
+- [elLauncher.zip - Архив с уже скаченным лаунчером (!Рекомендуется!)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.zip)
 
 # Проблемы, которые были при создании лаунчера
 - Отсутствие звука, языков, иконки программы. Является отсутсвием ассетов или путь к ним неверный.  
