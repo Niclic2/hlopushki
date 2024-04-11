@@ -1,5 +1,5 @@
 # Полезные Ссылки!
-- [elLauncher.bat - установщик](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.bat)  
+- [elLauncher.bat - установщик, поместить в папку!!!](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.bat)  
 - [elLauncher.zip - Архив с уже скаченным лаунчером](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.2/elLauncher.zip)
 
 # Проблемы, которые были при создании лаунчера
