@@ -1,3 +1,4 @@
+# Готовится новая версия 0.0.4, версии от 0.0.3 и ниже не работают в связи с переменами в новой версии
 # Полезные Ссылки
 - [elLauncher.zip - Архив с уже скаченным лаунчером (!Рекомендуется!)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.3/elLauncher-0.0.3.zip)
 - [elLauncher.bat - установщик (поместить в папку)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.3/elLauncher.bat)
